@@ -6,4 +6,4 @@
 <img width="1000" height="746" alt="image" src=3/> <img width="1000" height="746" alt="image" src=4/>
 
 ## Visualização dos Dados no Power BI
-<img width="1000" height="746" alt="image" src=Segmentação de Clientes.BI.jpg/>
+<img width="1000" height="746" alt="image" src="Segmentação de Clientes.BI.jpg"/>
