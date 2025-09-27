@@ -1,3 +1,3 @@
 # Segmenta-o-de-Clientes-com-Python
 Segmentação de Clientes utilizando Python e técnicas de Machine Learning 
-<img src="1.jpg" width="400">
+<img width="1000" height="746" alt="image" src=1 />
