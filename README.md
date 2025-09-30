@@ -2,6 +2,7 @@
 
 ## Scripts em Python e técnicas de Machine Learning e Analíse de Dados
 ### -Análise Exploratória de Dados
+#### Visando a identificação de padrões e insight
 ### -Pré-Processamento de Dados
 #### Padronização dos dados para utilização de ML
 ### -Clustering
